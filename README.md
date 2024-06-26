@@ -1,0 +1,1 @@
+ In the projects folder there are my three projects the landing page , basic calculator and the portfolio. That i had made during my internship with the codsoft via lindedin. I am glad that i'd be able to make the projects because it was my first intership.
